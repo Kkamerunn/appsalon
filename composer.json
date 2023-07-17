@@ -1,0 +1,17 @@
+{
+    "name": "usuario/app-salon_php_mvc_js_sass",
+    "autoload": {
+        "psr-4": {
+            "MVC\\" : "./",
+            "Controllers\\" : "./controllers",
+            "Model\\" : "./models"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kkamerunn",
+            "email": "digenovalucas@gmail.com"
+        }
+    ],
+    "require": {}
+}
